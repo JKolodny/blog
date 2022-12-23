@@ -1,0 +1,4 @@
+baseURL = 'https://jkolodny.github.io/'
+languageCode = 'en-us'
+title = 'Joshua Kolodny Personal Site'
+theme = "hugo-PaperMod"
